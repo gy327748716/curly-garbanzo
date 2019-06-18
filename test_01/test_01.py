@@ -23,3 +23,5 @@ print(items)
 
 del items[a]
 print(items)
+
+print(items)
